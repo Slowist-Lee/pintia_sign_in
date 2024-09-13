@@ -1,6 +1,8 @@
 # pintia 自动签到脚本
 > 目前仅限windows使用
 
+- 预装条件：`python`
+
 ## 简明步骤
 1. 手动修改脚本中的'your email'和'your password'，即pintia登陆的账号密码,在主程序如图所示位置：
 ![alt text](image.png)
@@ -9,5 +11,6 @@
 - 选择“创建任务”，“操作”选项卡选择“新建”，程序或脚本选择`automaticsignin.bat`
 - 触发器选项卡，选择新建，可以选择定时的时间
 
-右侧选项卡中运行，可以测试是否设置成功：
+回到总界面，右侧选项卡中运行，可以测试是否设置成功：
+
 ![alt text](image-1.png)

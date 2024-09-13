@@ -1,3 +1,3 @@
 @echo off
-python "d:\MyRepository\pintiasignin\pintiasignin.py"
+python "path\to\pintiasignin.py"
 pause
